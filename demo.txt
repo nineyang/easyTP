@@ -1,0 +1,5 @@
+标题:有问必答激活邮件(系统)
+发件人:有问必答
+内容:尊敬的三用户,欢迎加入有问必答,请点击下面按钮进行激活
+<a href=localhost/ywbd7/front/user/active/id/20/code/e131.html>点击激活</a>
+您的密码是:QWEqwe123,请妥善保管
